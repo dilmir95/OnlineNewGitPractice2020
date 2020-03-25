@@ -6,3 +6,4 @@ I am adding more colors
 Grey
 Yellow
 Blue
+pink
