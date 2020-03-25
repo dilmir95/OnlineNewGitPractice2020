@@ -2,3 +2,7 @@ Black
 Red
 Purple
 White
+I am adding more colors
+Grey
+Yellow
+Blue
